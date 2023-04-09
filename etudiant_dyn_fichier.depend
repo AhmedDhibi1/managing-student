@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1673117042 source:c:\users\user\onedrive\bureau\mini.projet.c\etudiant_dyn_fichier\etudiant_fich.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"etudiant_fich.h"
+
+1673113987 c:\users\user\onedrive\bureau\mini.projet.c\etudiant_dyn_fichier\etudiant_fich.h
+	"structure_fich.h"
+
+1673083220 c:\users\user\onedrive\bureau\mini.projet.c\etudiant_dyn_fichier\structure_fich.h
+
+1673116057 source:c:\users\user\onedrive\bureau\mini.projet.c\etudiant_dyn_fichier\main.c
+	<stdio.h>
+	<stdlib.h>
+	"etudiant_fich.h"
+
